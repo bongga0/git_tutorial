@@ -1,1 +1,2 @@
 File B - A Update
+Remove B from C
